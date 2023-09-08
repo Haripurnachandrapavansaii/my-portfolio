@@ -34,7 +34,7 @@ Follow these instructions to view and explore the portfolio project locally:
 - **Contact:** Find ways to connect with me through social media or email.
 
 ---
-# Chandu Velugu Portfolio
+# Hari Purna Chandra Pavan Sai Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, interests, and accomplishments through an engaging web interface. Built using HTML, CSS, and JavaScript, this portfolio provides a glimpse into my journey and projects.
 
@@ -47,7 +47,7 @@ Welcome to my personal portfolio website! This project showcases my skills, inte
 
 ## About Me
 
-I'm Chandu Velugu, an undergraduate student passionate about Artificial Intelligence and technology. I enjoy capturing nature through photography, editing images, and exploring soothing music. I am currently pursuing a B.Tech in Artificial Intelligence from SRM Institute of Science and Technology. My interest in tech began at a young age, from breaking open RC cars to now diving into the world of Artificial Intelligence.
+I'm Hari Purna Chandra Pavan Sai, an undergraduate student passionate about Artificial Intelligence and technology. I enjoy capturing nature through photography, editing images, and exploring soothing music. I am currently pursuing a B.Tech in Artificial Intelligence from SRM Institute of Science and Technology. My interest in tech began at a young age, from breaking open RC cars to now diving into the world of Artificial Intelligence.
 
 ## Projects
 
